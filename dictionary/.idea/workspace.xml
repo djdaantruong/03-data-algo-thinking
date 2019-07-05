@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d7eaa1ac-be85-4ff9-96d7-ce077b8b0267" name="Default Changelist" comment="" />
+    <list default="true" id="d7eaa1ac-be85-4ff9-96d7-ce077b8b0267" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/vuongnguyen/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vuongnguyen/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/vuongnguyen/BloomFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vuongnguyen/Dictionary/BloomFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/vuongnguyen/DataProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vuongnguyen/DataLoader/DataProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/vuongnguyen/DataReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vuongnguyen/DataLoader/DataReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/vuongnguyen/Dictionary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vuongnguyen/Dictionary/Dictionary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/vuongnguyen/DictionaryList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vuongnguyen/Dictionary/DictionaryList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/vuongnguyen/TaskReadFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vuongnguyen/DataLoader/TaskReadFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/vuongnguyen/Trie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vuongnguyen/Dictionary/Trie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/vuongnguyen/BenchmarkRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/vuongnguyen/BenchmarkRunner.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,11 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/vuongnguyen/BenchmarkRunner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="466">
-              <caret line="45" column="27" lean-forward="true" selection-start-line="45" selection-start-column="27" selection-end-line="45" selection-end-column="27" />
+            <state relative-caret-position="210">
+              <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -27,11 +38,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/vuongnguyen/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="71" column="106" selection-start-line="71" selection-start-column="106" selection-end-line="71" selection-end-column="106" />
+            <state relative-caret-position="360">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#2104#2105#0" expanded="true" />
@@ -42,19 +53,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/vuongnguyen/Trie.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/vuongnguyen/Dictionary/Trie.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1605">
-              <caret line="113" column="13" selection-start-line="113" selection-start-column="13" selection-end-line="113" selection-end-column="13" />
+            <state relative-caret-position="60">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/vuongnguyen/DataProcessor.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/vuongnguyen/DataLoader/DataProcessor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="105">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -63,10 +74,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/vuongnguyen/DataReader.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/vuongnguyen/DataLoader/DataReader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+            <state relative-caret-position="135">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -75,10 +86,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/vuongnguyen/BloomFilter.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/vuongnguyen/Dictionary/BloomFilter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="945">
-              <caret line="70" column="20" selection-start-line="70" selection-start-column="17" selection-end-line="70" selection-end-column="20" />
+            <state relative-caret-position="90">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#2070#2071#0" expanded="true" />
@@ -89,28 +100,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/vuongnguyen/Dictionary.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/vuongnguyen/Dictionary/Dictionary.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/vuongnguyen/DictionaryList.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/vuongnguyen/Dictionary/DictionaryList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+            <state relative-caret-position="45">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/vuongnguyen/TaskReadFile.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/vuongnguyen/DataLoader/TaskReadFile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+            <state relative-caret-position="60">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -160,6 +171,7 @@
         <option value="$PROJECT_DIR$/src/main/java/vuongnguyen/Trie.java" />
         <option value="$PROJECT_DIR$/src/main/java/vuongnguyen/App.java" />
         <option value="$PROJECT_DIR$/src/test/java/vuongnguyen/BenchmarkRunner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/vuongnguyen/Dictionary/Trie.java" />
       </list>
     </option>
   </component>
@@ -221,6 +233,24 @@
               <item name="dictionary" type="b2602c69:ProjectViewProjectNode" />
               <item name="dictionary" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="vuongnguyen" type="462c0819:PsiDirectoryNode" />
+              <item name="DataLoader" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dictionary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dictionary" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="vuongnguyen" type="462c0819:PsiDirectoryNode" />
+              <item name="Dictionary" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dictionary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dictionary" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -274,13 +304,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BenchmarkRunner">
+  <component name="RunManager" selected="Application.App">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="vuongnguyen.App" />
       <module name="dictionary" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="vuongnguyen.*" />
+          <option name="PATTERN" value="vuongnguyen.Dictionary.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -293,7 +323,7 @@
       <module name="dictionary" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="vuongnguyen.*" />
+          <option name="PATTERN" value="vuongnguyen.Dictionary.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -306,7 +336,7 @@
       <module name="dictionary" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="vuongnguyen.*" />
+          <option name="PATTERN" value="vuongnguyen.Dictionary.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -319,7 +349,7 @@
       <module name="dictionary" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="vuongnguyen.*" />
+          <option name="PATTERN" value="vuongnguyen.Dictionary.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -332,7 +362,7 @@
       <module name="dictionary" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="vuongnguyen.*" />
+          <option name="PATTERN" value="vuongnguyen.Dictionary.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -342,8 +372,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BenchmarkRunner" />
         <item itemvalue="Application.App" />
+        <item itemvalue="Application.BenchmarkRunner" />
         <item itemvalue="Application.Ben" />
         <item itemvalue="Application.BenchmarkXXX" />
         <item itemvalue="Application.MyApplication" />
@@ -365,8 +395,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15035932" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15533444" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -428,7 +459,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/vuongnguyen/DataReader.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/vuongnguyen/DataLoader/DataReader.java</url>
           <line>10</line>
           <properties />
           <option name="timeStamp" value="1" />
@@ -454,37 +485,34 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/vuongnguyen/MyApplication.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/vuongnguyen/BenchmarkXXX.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/vuongnguyen/Ben.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/vuongnguyen/Trie.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/vuongnguyen/BenchmarkRunner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1605">
-          <caret line="113" column="13" selection-start-line="113" selection-start-column="13" selection-end-line="113" selection-end-column="13" />
+        <state relative-caret-position="210">
+          <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/vuongnguyen/DataProcessor.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/vuongnguyen/Dictionary/Dictionary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/vuongnguyen/Dictionary/DictionaryList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/vuongnguyen/DataReader.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/vuongnguyen/Dictionary/BloomFilter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/vuongnguyen/BloomFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="945">
-          <caret line="70" column="20" selection-start-line="70" selection-start-column="17" selection-end-line="70" selection-end-column="20" />
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#2070#2071#0" expanded="true" />
@@ -493,45 +521,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/vuongnguyen/Dictionary.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/vuongnguyen/Dictionary/Trie.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/vuongnguyen/DictionaryList.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/vuongnguyen/DataLoader/DataProcessor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/vuongnguyen/TaskReadFile.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/vuongnguyen/DataLoader/DataReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+        <state relative-caret-position="135">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/vuongnguyen/DataLoader/TaskReadFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/vuongnguyen/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="71" column="106" selection-start-line="71" selection-start-column="106" selection-end-line="71" selection-end-column="106" />
+        <state relative-caret-position="360">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#2104#2105#0" expanded="true" />
             <element signature="e#2142#2143#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/vuongnguyen/BenchmarkRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="466">
-          <caret line="45" column="27" lean-forward="true" selection-start-line="45" selection-start-column="27" selection-end-line="45" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

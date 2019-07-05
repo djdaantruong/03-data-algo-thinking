@@ -1,4 +1,4 @@
-package vuongnguyen;
+package vuongnguyen.Dictionary;
 
 //Strategy
 public class DictionaryList {

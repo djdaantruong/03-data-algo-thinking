@@ -1,4 +1,4 @@
-package vuongnguyen;
+package vuongnguyen.Dictionary;
 
 import java.util.BitSet;
 import java.util.Random;

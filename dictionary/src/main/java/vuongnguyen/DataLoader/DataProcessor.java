@@ -1,7 +1,9 @@
-package vuongnguyen;
+package vuongnguyen.DataLoader;
+
+import vuongnguyen.Dictionary.BloomFilter;
+import vuongnguyen.Dictionary.Trie;
 
 import java.util.*;
-import java.util.regex.*;
 
 public class DataProcessor {
 

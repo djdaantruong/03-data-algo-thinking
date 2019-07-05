@@ -1,14 +1,17 @@
 package vuongnguyen;
 
+import vuongnguyen.DataLoader.DataReader;
+import vuongnguyen.Dictionary.BloomFilter;
+import vuongnguyen.Dictionary.DictionaryList;
+import vuongnguyen.Dictionary.Trie;
+
 import javax.swing.*;
 import javax.swing.event.DocumentEvent;
 import javax.swing.event.DocumentListener;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.io.IOException;
-import java.util.List;
 import java.util.Set;
-import java.util.stream.Collectors;
 
 public class App {
     private JTextField txtInput;

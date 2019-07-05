@@ -1,4 +1,4 @@
-package vuongnguyen;
+package vuongnguyen.Dictionary;
 
 public interface Dictionary {
     boolean contains(String key);
