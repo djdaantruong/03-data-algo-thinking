@@ -1,5 +1,31 @@
 # Data structures and algorithms
 
+- [1. Cấu trúc dữ liệu](#1-cấu-trúc-dữ-liệu)
+	- [1.1. Probabilistic data structures](#11-probabilistic-data-structures)
+	- [1.2. Bloom Filters](#12-bloom-filters)
+	- [1.3. Cuckoo Filters](#13-cuckoo-filters)
+	- [1.4. Count Min Sketch](#14-count-min-sketch)
+	- [1.5. HyperLogLog](#15-hyperloglog)
+	- [1.6. Trie](#16-trie)
+- [2. Design Pattern](#2-design-pattern)
+	- [2.1. Singleton](#21-singleton)
+	- [2.2. Factory](#22-factory)
+	- [2.3. Builder](#23-builder)
+	- [2.4. Dependency Injection](#24-dependency-injection)
+	- [2.5. State](#25-state)
+- [3. Nguyên tắc lập trình](#3-nguyên-tắc-lập-trình)
+	- [3.1. SOLID](#31-solid)
+	- [3.2. DRY](#32-dry)
+	- [3.3. KISS](#33-kiss)
+	- [3.4. YAGNI](#34-yagni)
+	- [3.5. Do the simplest thing that could possibly work](#35-do-the-simplest-thing-that-could-possibly-work)
+	- [3.6. Clean code](#36-clean-code)
+- [4. Bài tập](#4-bài-tập)
+	- [4.1. Predictive text](#41-predictive-text)
+	- [4.2. Hash Tables](#42-hash-tables)
+	- [4.3. Tính thời gian xử lý khiếu nại](#43-tính-thời-gian-xử-lý-khiếu-nại)
+- [5. Tài liệu tham khảo](#5-tài-liệu-tham-khảo)
+
 ## 1. Cấu trúc dữ liệu
 
 ### 1.1. Probabilistic data structures
